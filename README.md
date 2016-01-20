@@ -24,3 +24,10 @@ URL schemes collecting
 功能 | URL
 ---- | ----
 听歌识曲 | orpheuswidget://recognize
+
+#### 4. Surge
+功能 | URL
+---- | ----
+启动 | surge:///start[?autoclose=true]
+停止 | surge:///stop[?autoclose=true]
+切换状态 | surge:///toggle[?autoclose=true]
