@@ -6,9 +6,9 @@ URL schemes collecting
 欢迎`Star`、`Pull request`或提交 `Issue`。
 
 #### 1. 微信
-功能 | URL
----- | ----
-扫一扫 | weixin://dl/scan
+功能 | URL | 备注
+---- | ---- | ----
+扫一扫 | weixin://dl/scan | 最新版微信不能再从外部调用 [#2](https://github.com/paicha/url-schemes-collecting/issues/2)
 朋友圈 | weixin://dl/moments
 收藏 | weixin://dl/favorites
 我的二维码 | weixin://dl/myQRcode
