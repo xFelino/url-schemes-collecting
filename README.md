@@ -19,6 +19,7 @@ URL schemes collecting
 扫一扫 | alipayqr://platformapi/startapp?saId=10000007
 付款码 | alipayqr://platformapi/startapp?saId=20000056
 红包 | alipay://platformapi/startapp?saId=88886666
+发起聊天 | alipay://platformapi/startapp?appId=20000254&actionType=createGroup
 
 #### 3. 网易云音乐
 功能 | URL
