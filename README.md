@@ -32,3 +32,8 @@ URL schemes collecting
 启动 | surge:///start[?autoclose=true]
 停止 | surge:///stop[?autoclose=true]
 切换状态 | surge:///toggle[?autoclose=true]
+
+#### 6. 微博
+功能 | URL
+---- | ----
+扫码 | weibo://qrcode
